@@ -115,7 +115,7 @@ yarn dev
 
 > Recommend using [Insomnia](https://insomnia.rest/download/) to test routes
 
-😃 Now run the project in your device or favorite emulator and...
+😃 Now run the project in your computer and...
 **BE HAPPY**.
 
 <h4>
@@ -125,7 +125,7 @@ yarn dev
 <br/>
 
 <h4 align="center">
-  "Stay hungry stay foolish!"
+  "Never give up!"
 </h4>
 
 <br/>
